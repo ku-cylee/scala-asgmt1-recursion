@@ -21,7 +21,7 @@ class BalanceSuite extends AnyFunSuite {
     assert(!balance(":-)".toList))
   }
 
-  test("balance: counting is not enough") {
+  test("balance: ())( is unbalanced") {
     assert(!balance("())(".toList))
   }
 }
