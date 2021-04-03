@@ -1,4 +1,4 @@
-name := "PrjName"  //Edit Here
+name := "recfun"  //Edit Here
 
 version := "1.0.0"
 
